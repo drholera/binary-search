@@ -1,3 +1,3 @@
 # Binary search
 
-Basic implementation pf binary search algorithm.
+Basic implementation of binary search algorithm.
